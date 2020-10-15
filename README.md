@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm currently working on project called reddit-api-clone
+
+### I'm currently learning microservices concepts such as docker, kubernetes
+
 <!--
 **emreturgutce/emreturgutce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
