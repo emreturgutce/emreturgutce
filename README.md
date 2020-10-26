@@ -1,8 +1,6 @@
 ### Hi there 🖐
 
-#### :point_right: I'm currently working on project called type-graphql
-
-#### :point_right: I'm currently learning type-graphql, relay and AWS
+#### :point_right: I'm currently learning relay and AWS
 
 <!--
 **emreturgutce/emreturgutce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
