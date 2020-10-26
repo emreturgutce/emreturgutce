@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### :point_right: I'm currently working on project called reddit-api-clone
+#### :point_right: I'm currently working on project called type-graphql
 
-#### :point_right: I'm currently learning microservices concepts such as docker, kubernetes
+#### :point_right: I'm currently learning type-graphql, relay
 
 <!--
 **emreturgutce/emreturgutce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
