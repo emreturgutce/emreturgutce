@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖐
 
 #### :point_right: I'm currently working on project called type-graphql
 
