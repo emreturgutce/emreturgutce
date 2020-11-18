@@ -2,7 +2,7 @@
 
 #### :point_right: I'm currently working on a project called clothing-store. I use some technologies such as GraphQL, TypeGraphQL.
 
-#### :point_right: I'm currently learning .Net Core and AWS
+#### :point_right: I'm currently learning Java Spring and AWS
 
 <!--
 **emreturgutce/emreturgutce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
