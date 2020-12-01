@@ -1,7 +1,5 @@
 ### Hi there 🖐
 
-#### :point_right: I'm currently working on a project called clothing-store. I use some technologies such as GraphQL, TypeGraphQL.
-
 #### :point_right: I'm currently learning Java Spring and AWS
 
 <!--
