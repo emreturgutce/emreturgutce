@@ -1,6 +1,6 @@
 ### Hi there 🖐
 
-#### :point_right: I'm currently learning Java Spring and AWS
+#### :point_right: I'm currently learning .Net Core
 
 <!--
 **emreturgutce/emreturgutce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
