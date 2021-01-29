@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
-![](https://komarev.com/ghpvc/?username=emreturgutce)
-
 -   🌱 I’m currently learning **Systems Design and Design Patterns**
 
 -   📫 How to reach me **emreturgutcse@hotmail.com**
