@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
--   🌱 I’m currently learning **Systems Design and Design Patterns**
+-   🌱 I’m currently learning **Systems Design**
 
 -   📫 How to reach me **emreturgutcse@hotmail.com**
 
